@@ -36,3 +36,12 @@ python3 water_meter.py start
 - Shell Scripting (bash)
 - Linux commands: `mv`, `touch`, `awk`, `grep`, `sort`, `uniq`
 
+## 🚀 Getting Started
+To get started with this project:
+1. Clone the repository to your local machine.
+2. Navigate into the project folder using `cd Coding-lab_Group_7`.
+3. Run each simulator in a separate terminal:
+```bash
+python3 heart_monitor.py start
+python3 temp_sensor.py start
+python3 water_meter.py start
